@@ -11,8 +11,8 @@ Final year student at IIT Indore
 - Improvement in prime round and flat products during rolling.
 - Data analysis of Quality and Products for previous 10 years.
 - Proposed idea of using Inductive Proximity Sensor for issue regarding misallignment.
-- Designed a Pneumatic circuit to reduce the scratched caused by previous setup.
-- Designed a valve to descale the scaling after unsuccessful operation of descaler.
+- Designed a Pneumatic circuit to reduce the scratched caused by break slides.
+- Designed a Nozzle for header to descale the scaling after unsuccessful operation of descaler.
 
 # Resume: 
   https://drive.google.com/file/d/1Vw7OhGMBHs3EcSZ3sq26T_Stv_QEFv9Y/view?usp=drive_link
