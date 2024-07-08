@@ -21,6 +21,7 @@ Final year student at IIT Indore
 - **Codeforces** : https://codeforces.com/profile/Prasanna_Kante
 - **Codechef**   : https://www.codechef.com/users/prasanna_kante
 - **GFG**        : https://www.geeksforgeeks.org/user/prasanna_kante
+- **Leetcode**   : https://leetcode.com/u/prasanna_kante_31
 
 # Projects:
   - Waterless and Energy Efficient Cleaning of Solar Panel
