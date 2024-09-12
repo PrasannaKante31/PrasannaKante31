@@ -1,6 +1,6 @@
 
 # Prasanna Kante
-Final year student at IIT Indore
+Final year B-Tech student at IIT Indore
 
 # Internships
 **Ideaforge**: 
