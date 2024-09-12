@@ -4,9 +4,9 @@ Final year student at IIT Indore
 
 # Internships
 **Ideaforge**: 
-– Developed an emergency safe landing algorithm for drones using IMU and GPS data to ensure safe landings during component failures, decreasing the damage by 40%
-– Implemented RESTful routes for the RYNO-UAV on the website to enable efficient backend communication
-– Displayed a pre-authored FAQ section on the website to enhance user accessibility and support
+- Developed an emergency safe landing algorithm for drones using IMU and GPS data to ensure safe landings during component failures, decreasing the damage by 40%
+- Implemented RESTful routes for the RYNO-UAV on the website to enable efficient backend communication
+- Displayed a pre-authored FAQ section on the website to enhance user accessibility and support
 
 **JSPL**: 
 - Improvement in prime round and flat products during rolling.
