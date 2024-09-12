@@ -16,7 +16,7 @@ Final year B-Tech student at IIT Indore
 - Designed a Nozzle for header to descale the scaling after unsuccessful operation of descaler.
 
 # Resume: 
-  https://drive.google.com/file/d/1Vw7OhGMBHs3EcSZ3sq26T_Stv_QEFv9Y/view?usp=drive_link
+  https://drive.google.com/drive/folders/1INRowIxExqTHRCQ4e6Wk3kClF9XDhX_3?usp=sharing
 
 # Coding Profiles: 
 - **Codeforces** : https://codeforces.com/profile/Prasanna_Kante
