@@ -4,9 +4,9 @@ Final year B-Tech student at IIT Indore
 
 # Internships
 **Ideaforge**: 
-- Developed an emergency safe landing algorithm for drones using IMU and GPS data to ensure safe landings during component failures, decreasing the damage by 40%
-- Implemented RESTful routes for the RYNO-UAV on the website to enable efficient backend communication
-- Displayed a pre-authored FAQ section on the website to enhance user accessibility and support
+- Implemented 1D Kalman Filter Algorithm for Landing Target Estimator module in Autopilot Software
+- Performed Predict and Update methods to accurately identify the current position considering uncertainties in
+measurements and mathematical estimations
 
 **JSPL**: 
 - Improvement in prime round and flat products during rolling.
@@ -16,7 +16,7 @@ Final year B-Tech student at IIT Indore
 - Designed a Nozzle for header to descale the scaling after unsuccessful operation of descaler.
 
 # Resume: 
-  https://drive.google.com/drive/folders/1INRowIxExqTHRCQ4e6Wk3kClF9XDhX_3?usp=sharing
+  https://drive.google.com/drive/folders/1fcjYX3QaghOByPT_szZ6ZRzzdAtBL8j8?usp=drive_link
 
 # Coding Profiles: 
 - **Codeforces** : https://codeforces.com/profile/Prasanna_Kante
@@ -25,8 +25,8 @@ Final year B-Tech student at IIT Indore
 - **Leetcode**   : https://leetcode.com/u/prasanna_kante_31
 
 # Projects:
-  - Waterless and Energy Efficient Cleaning of Solar Panel
   - Hotel Booking System
+  - Waterless and Energy Efficient Cleaning of Solar Panel
   - Take Notes
   - Dijkstras Visualiser (Shortest Path Finder)
   - Get Some News
